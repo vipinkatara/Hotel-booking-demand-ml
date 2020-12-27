@@ -7,7 +7,7 @@ The detailed article of this project can be found [here.](https://vipinkatara2.m
 * [Setup](#setup)
 
 ## General info
-In this project, we have done the EDA - Explorarity Data Analytics and applied different dimensionality reduction techniques to study the patterns provided by the data. We have also done the classification and predicted the reservation status of customer at the hotel.
+In this project, we have done the EDA - Exploratory Data Analysis and applied different dimensionality reduction techniques to study the patterns provided by the data. We have also done the classification and predicted the reservation status of customer at the hotel.
 
 
 ## Prerequisites
